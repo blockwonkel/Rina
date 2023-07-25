@@ -1,8 +1,8 @@
 {
-    "name": "Rina-Chan Board ESP32-C3",
+    "name": "Rina-Chan Board C3 Mini",
     "new_install_prompt_erase": true,
     "builds": [
-        {
+      {
         "chipFamily": "ESP32-C3",
         "parts": [
           { "path": "RinaC3Miniv2-0.bin", "offset": 0 }
