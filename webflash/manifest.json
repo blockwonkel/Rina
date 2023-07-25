@@ -5,19 +5,28 @@
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "merged-firmware.bin", "offset": 0 }
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bootloader.bin", "offset": 4096 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.partitions.bin", "offset": 36864 },
+          { "path": "boot_app0.bin", "offset": 61440 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bin", "offset": 69632 }
         ]
       },
         {
         "chipFamily": "ESP32-C3",
         "parts": [
-          { "path": "merged-firmware.bin", "offset": 0 }
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bootloader.bin", "offset": 4096 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.partitions.bin", "offset": 36864 },
+          { "path": "boot_app0.bin", "offset": 61440 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bin", "offset": 69632 }
         ]
       },
           {
         "chipFamily": "ESP32-S3",
         "parts": [
-          { "path": "merged-firmware.bin", "offset": 0 }
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bootloader.bin", "offset": 4096 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.partitions.bin", "offset": 36864 },
+          { "path": "boot_app0.bin", "offset": 61440 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bin", "offset": 69632 }
         ]
       }
     ]
