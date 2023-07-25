@@ -5,10 +5,10 @@
       {
         "chipFamily": "ESP32-C3",
         "parts": [
-          { "path": "boot_app0.bin", "offset": 0 },
-          { "path": "SerialHelloWorld.ino.bin", "offset": 32768 },
-          { "path": "SerialHelloWorld.ino.bootloader.bin", "offset": 57344 },
-          { "path": "SerialHelloWorld.ino.partitions.bin", "offset": 65536 }
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bootloader.bin", "offset": 0 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.partitions.bin", "offset": 32768 },
+          { "path": "boot_app0.bin", "offset": 57344 },
+          { "path": "rina-chan-board-remoteXY-C3-Pro.ino.bin", "offset": 65536 }
         ]
       }
     ]
